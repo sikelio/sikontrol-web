@@ -1,3 +1,5 @@
+# Privacy Policy
+
 **Privacy Policy**
 
 Sik' built the Sikontrol app as an Open Source app. This SERVICE is provided by Sik' at no cost and is intended for use as is.
